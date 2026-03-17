@@ -27,7 +27,7 @@ A comprehensive **ESP32-based car control system** with web interface that allow
 | Motor DIR1     | 21        |
 | Motor DIR2     | 22        |
 
-![Preivew](p.jpg)
+![Preivew](demo.jpg)
 
 ## Usage
 1. Upload the code to your ESP32 board.
